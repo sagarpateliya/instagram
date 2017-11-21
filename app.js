@@ -47,7 +47,7 @@ app.use(function(req, res, next){
 
 //instagram stuff
 api.use({
-  client_id:'',               //your instagram client id and clien secret 
+  client_id:'',               //your instagram client id and client secret 
   client_secret:''
 });
 
